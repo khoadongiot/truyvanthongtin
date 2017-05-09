@@ -1,0 +1,29 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465375326769").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/08\/10-bo-gddt-dung-so-tphcm-lam-sai-1465375336.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Đinh La Thăng đã kiến nghị như vậy tại buổi làm việc giữa lãnh đạo TP.HCM và bộ trưởng Bộ GD-ĐT, bàn về phát triển giáo dục và đào tạo TP.HCM, diễn ra vào sáng 7-6.
+Chấm dứt ngay  dạy thêm, học thêm
+Bí thư Đinh La Thăng cho rằng giáo dục TP.HCM phải đi đầu trong hội nhập. Để hội nhập được phải có đề án tổng thể, trên cơ sở phê duyệt của Bộ GD-ĐT, Thành ủy cũng sẽ có nghị quyết riêng thực hiện đề án này.
+Đồng thời ông Thăng đề nghị: trong các chương trình đào tạo từ phổ thông đến ĐH phải xây dựng cho học sinh, sinh viên có lý tưởng tạo dựng sự nghiệp cho bản thân, xây dựng nền tảng gia đình, ý chí phụng sự Tổ quốc, xã hội... chứ không chỉ đơn thuần là giỏi ngoại ngữ, công nghệ thông tin.
+“Để thực hiện đề án giáo dục này phải có thời gian lâu dài, nhưng cái gì cần phải làm ngay. Phải dứt khoát bỏ dạy thêm, học thêm. Các trường quốc tế đâu có dạy thêm, học thêm mà học trò vẫn giỏi; đầu vào tốt, học phí cao vẫn nhiều người học. Còn việc phụ đạo cho học sinh yếu, TP thành lập các trung tâm, mở thêm danh mục đào tạo, ai có nhu cầu dạy và học thì đến đăng ký. Tuyệt đối không được mở các lớp dạy thêm, học thêm trong trường” - ông Thăng nói.
+Bên cạnh đó, Bí thư Đinh La Thăng cho rằng phải thực hiện xã hội hóa giáo dục đào tạo. Đối với người nghèo có thể bao cấp chuyện học hành, các đối tượng khác phải theo thị trường.
+“Hiện nay, rất nhiều nơi làm trường mầm non, chỉ cần khuyến khích là họ sẽ đầu tư ngay. Vậy việc gì phải xin biên chế? Tôi đề nghị TP kêu gọi đầu tư trường mầm non, mẫu giáo, tiểu học... tạo điều kiện cấp đất cho tư nhân xây trường. Nếu không thực hiện xã hội hóa thì học sinh không thể biết bơi. Cuối cùng, năm nào lãnh đạo TP gặp mặt các cháu lại hứa xây bể bơi, giảm tải...” - ông Thăng nói.
+Bí thư Đinh La Thăng cũng đề nghị không phân biệt trường công, trường tư: “Tại sao Bộ GD-ĐT đề xuất 21 trường trọng điểm thuộc Nhà nước? Trọng điểm không phải để xin tiền mà để được hỗ trợ cơ chế chính sách, tạo điều kiện cho nhà trường đào tạo tốt hơn. Bộ nên đưa ra các tiêu chí trở thành trường trọng điểm, không phân biệt trường tư thục hay công lập”.
+Ngoài ra, ông Thăng còn cho rằng đào tạo phải gắn với thị trường. “Tại sao doanh nghiệp không phối hợp với các trường ĐH để đào tạo?” - ông Thăng đặt vấn đề.
+Bộ trưởng giải quyết “nóng” các kiến nghị
+Phát biểu kết luận hội nghị, Bộ trưởng Phùng Xuân Nhạ nhấn mạnh: cơ sở để Bộ GD-ĐT chọn TP.HCM là địa bàn thực hiện đổi mới căn bản toàn diện giáo dục vì đây là nơi tiên phong trong sự nghiệp đổi mới giáo dục.
+Ông Nhạ cho rằng giáo dục đào tạo có nhiều vấn đề, một trong nhóm nguyên nhân tạo ra các vấn đề này là do vướng cơ chế chính sách. Nếu thực hiện trên 63 tỉnh, thành sẽ rất khó, nhưng thí điểm TP.HCM thì hoàn toàn được.
+Ông Nhạ cho biết để tạo sự chuyển biến rõ nét trong đổi mới căn bản toàn diện giáo dục, TP.HCM phải có đề án tổng thể phát triển giáo dục đào tạo đến năm 2020 và tầm nhìn 2035. Tất cả những vấn đề ngành giáo dục đang vướng và những chiến lược phát triển giáo dục phải được thể hiện rõ nét trong đề án này. Có những nội dung mà trên phạm vi toàn ngành chưa được triển khai sẽ được thí điểm tại TP. Nếu có kết quả tốt, sẽ được triển khai cả nước.
+“Trong đó, TP cần chú ý việc quy hoạch các trường ĐH. Bộ GD-ĐT ủng hộ chủ trương di dời các trường ĐH ra ngoại thành.
+Bộ sẽ cùng với TP rà soát thực hiện phân cấp, phân quyền, để TP chủ động hoàn chỉnh các quy định hiện hành, phù hợp xu hướng hội nhập, gắn với thị trường lao động, tăng cường chất lượng giáo viên, đổi mới chương trình, giảm tải...để giáo dục của chúng ta không xa cách giáo dục các nước khu vực.
+TP phải chủ động trong việc xây dựng cơ sở vật chất đảm bảo chất lượng giáo dục. Có những việc thuộc thẩm quyền của bộ thì bộ sẽ giải quyết ngay, có những việc bộ sẽ ủy quyền hoặc cho phép TP thí điểm.
+Trong đề án thí điểm phải nêu rõ những vấn đề này, để sau này có những việc không cần phải xin giấy phép. Chủ tịch UBND TP sẽ chịu trách nhiệm mặt quản lý nhà nước về giáo dục trước bộ trưởng” - ông Nhạ nói.
+Tại hội nghị, trả lời về 11 đề xuất của chủ tịch TP.HCM với Bộ GD-ĐT, Bộ trưởng Phùng Xuân Nhạ cho biết cơ bản ông đồng ý về chủ trương những đề xuất này.
+Về việc cho phép TP tự xây dựng khung chương trình giáo dục và bộ sách giáo khoa phù hợp thực tiễn phát triển của TP, tới đây Bộ GD-ĐT chỉ xây dựng khung chương trình chung, TP được chủ động trong việc này.
+Việc cho phép học sinh các trường chuyên, lớp chuyên được thi một số tín chỉ ở một số môn tương ứng, phù hợp đang được giảng dạy trong các trường ĐH, CĐ, theo ông Nhạ, đây là xu hướng quốc tế nên bộ ủng hộ.
+Với việc thay đổi phương thức đánh giá học sinh, bộ trưởng đề nghị căn cứ điều kiện cụ thể từng trường, đánh giá nhận xét của thầy cô, tránh thủ tục phức tạp.
+Về giao quyền cho các tỉnh, thành phố trực thuộc trung ương thực hiện kiểm tra, đánh giá, công nhận tốt nghiệp THPT, bộ cũng đồng ý, có thể thực hiện từ năm sau. Việc tổ chức khảo thí trình độ tiếng Anh của học sinh theo bốn kỹ năng nghe - đọc - nói - viết, đây là sự chủ động, bộ trưởng cũng đồng ý.
+Ngoài ra, bộ trưởng cũng đề nghị TP tiên phong, quyết liệt không cho dạy thêm, học thêm. Bộ sẽ có văn bản cùng với TP thực hiện việc này, và sẽ thực hiện chủ trương này trên phạm vi cả nước.

@@ -1,0 +1,4 @@
+Nhóm tác giả ba sinh viên ĐH Bách khoa TP.HCM được trao giải nhất với ý tưởng sử dụng ứng dụng điện thoại di động để phát hiện rò rỉ trên hệ thống cấp nước.
+Phần thưởng giải nhất là một chuyến đi Thụy Điển và tham dự chương trình tuần lễ nước thế giới tổ chức hằng năm tại thủ đô Stockholm (Thụy Điển), một diễn đàn thường niên luôn thu hút hàng ngàn đại biểu quốc tế tham dự.
+Trao đổi với Tuổi Trẻ về ý tưởng của nhóm, sinh viên Trịnh Quốc Anh cho biết xuất phát từ thực tế hiện vẫn còn khoảng 30% lượng nước sạch bị thất thoát trong quá trình cấp nước, nhóm có ý tưởng lập một ứng dụng trên điện thoại di động để báo tin về hiện tượng rò rỉ nước.
+“Ứng dụng này cho phép khi phát hiện có điểm rò rỉ nước, người phát hiện chỉ cần kích hoạt vào ứng dụng là đơn vị quản lý cấp nước có thể biết vị trí mà người báo địa điểm rò rỉ nước ở đâu thông qua ứng dụng định vị trên điện thoại di động”, Quốc Anh cho hay.

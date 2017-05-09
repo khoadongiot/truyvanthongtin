@@ -1,0 +1,21 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465286385489").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/07\/dau-nam-hoc-moi-se-khac-phuc-ngay-thong-tu-30-1465286315.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Phát biểu tại Trường TH Nguyễn Bỉnh Khiêm (Q.1, TP.HCM) ngày 6-6, Bộ trưởng Bộ GD-ĐT Phùng Xuân Nhạ cho biết như trên. Ông cho biết bộ đang chỉ đạo rà soát, đánh giá một cách rất nghiêm túc thông tư 30.
+Lớp đông quá,  khó đánh giá
+Trình bày trước bộ trưởng Bộ GD-ĐT, cô Lâm Hồng Lãm Thúy, hiệu trưởng Trường TH Nguyễn Bỉnh Khiêm (Q.1), thành thật nói về việc thực hiện thông tư 30 tại trường. “Đến nay giáo viên trường tôi đã thuần thục nhận xét theo thông tư 30.
+Hiện nay trường cho giáo viên làm theo hai cách: nhận xét trên sổ sách và có thể làm trên cổng thông tin điện tử theo hướng dẫn của Sở GD-ĐT TP.HCM. Nhưng để nhận xét bao quát được học sinh trên lớp và vào vở, cố gắng đó khó cho thầy cô. Nhiều thầy cô phải ôm tập vở học sinh về nhà để làm...”.
+Đứng trước ban giám hiệu, giáo viên, Bộ trưởng Phùng Xuân Nhạ nói: “Tôi rất chia sẻ với các thầy cô về thông tư 30. Mục tiêu ý nghĩa thông tư 30 rất tốt, rất nhân văn theo hướng đánh giá các khía cạnh của một trẻ để giúp các em hoàn thiện, mỗi ngày một ít. Nhưng lớp đông quá các cô các thầy rất khó đánh giá.
+Mặt khác, từ đánh giá bằng cho điểm, làm rất nhanh đột ngột chuyển sang phải nhận xét, cộng với sổ sách nhiều, tâm thế giáo viên sẽ không thoải mái, chưa kể đến một số đơn vị thêm các yêu cầu nữa...”.
+Vẫn khẳng định việc đánh giá học sinh bằng nhận xét là hướng đi của giáo dục nhưng Bộ trưởng Nhạ cho biết sẽ chú trọng vào lộ trình và bước đi cụ thể. Những địa phương như TP.HCM, sĩ số trên lớp quá đông sẽ tìm cách làm hợp lý. Có thể làm theo hướng thí điểm, một hai năm sau hoặc năm năm sau mới nhân rộng, chứ không thể một lúc dàn hàng ngang.
+Giáo viên phải có tập huấn để hiểu cách đánh giá thông tư 30, không làm trong miễn cưỡng, phụ huynh cũng phải hiểu được thông tư 30 thì ngành giáo dục mới làm... Để thực hiện tốt thông tư 30 thì không làm cực đoan, không chuyển từ cho điểm sang bỏ điểm đi để nhận xét. Đầu năm học mới này, bộ sẽ khắc phục ngay thông tư 30.
+Hiện nay, Bộ GD-ĐT đang có hướng dùng công nghệ thông tin để “giảm tải” nhận xét cho giáo viên khi họ thực hiện đánh giá học sinh theo thông tư 30 với cách “lượng hóa” nhận xét cho giáo viên.
+Sẽ có chuẩn giáo viên mới
+Ngoài ra, Bộ GD-ĐT cũng đề nghị TP.HCM phải quan tâm đầu tư cho lớp học và vấn đề quá tải sĩ số học sinh/giáo viên/lớp.
+“Chúng ta không công bằng khi yêu cầu các cô các thầy làm việc nhiều hơn mà đãi ngộ vẫn như xưa được. Khi yêu cầu giáo viên đánh giá kỹ hơn, toàn diện hơn học sinh thì thu nhập của họ phải tăng lên. Nếu chúng ta chỉ quan trọng đến khía cạnh khoa học mà quên những bước đi thì hiệu quả đổi mới là rất thấp”, Bộ trưởng Nhạ nói.
+Theo báo cáo từ cô Lâm Hồng Lãm Thúy, 100% giáo viên của trường đều đạt chuẩn và trên chuẩn, trong đó có nhiều thạc sĩ. Rất mừng trước thông tin này nhưng Bộ trưởng Nhạ cho biết “đây là chuẩn của phương pháp tổ chức dạy học dựa vào truyền thụ kiến thức”.
+Đổi mới toàn diện giáo dục sẽ sang một phương thức phát triển mới và chuẩn cần phải thay đổi. Bộ đang chỉ đạo các cục chuyên môn cùng với chuyên gia xây dựng, rà soát chuẩn giáo viên phù hợp với yêu cầu mới, trong đó bậc tiểu học cũng phải có chuẩn mới.
+Chuẩn mới của giáo viên chú trọng vào việc phát huy năng lực tiếng Anh và công nghệ thông tin, có chương trình nâng cao cập nhật kiến thức kỹ năng, kiến thức khoa học giáo dục cho bậc giáo dục tiểu học.

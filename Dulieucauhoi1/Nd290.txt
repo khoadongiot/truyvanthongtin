@@ -1,0 +1,23 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465024510856").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/04\/08-huy-uu-tien-xet-tuyen-con-lanh-dao-1465024515.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                "Nghe đọc bài Hủy ưu tiên xét tuyển con lãnh đạo vào trường điểm ở Kon Tum"
+Chiều 3-6, Sở GD-ĐT tỉnh Kon Tum đã tổ chức họp xét đợt một hồ sơ dự tuyển vào Trường mầm non Thực hành sư phạm Kon Tum và Trường tiểu học Thực hành sư phạm Kon Tum (TP Kon Tum, tỉnh Kon Tum).
+Đáng chú ý, trong đợt xét tuyển này, ban đầu hội đồng xét duyệt đã xét chọn theo hướng ưu tiên hồ sơ của con cháu lãnh đạo cấp thường vụ Tỉnh ủy, cựu lãnh đạo tỉnh Kon Tum trở lên.
+Tuy nhiên cuối buổi, nhiều lãnh đạo Sở GD-ĐT Kon Tum đã có ý kiến không đồng tình với cách xét tuyển trên, nên nội dung “ưu tiên con lãnh đạo” được hủy bỏ.
+Trước đó, Trường mầm non Thực hành sư phạm Kon Tum và Trường tiểu học Thực hành sư phạm Kon Tum thông báo tuyển sinh năm học 2016-2017.
+Tại Kon Tum, đây được coi là hai trường điểm với hệ thống cơ sở vật chất khang trang, là niềm mơ ước của nhiều phụ huynh gửi gắm con em, nên hằng năm lượng hồ sơ đổ về trường này luôn trong tình trạng quá tải.
+Nhiều phụ huynh phản ảnh với PV Tuổi Trẻ mới đây khi đến các trường trên nộp hồ sơ xin cho con vào học, nhiều người bất ngờ khi được biết việc ưu tiên xét hồ sơ của con cháu cán bộ cấp thường vụ Tỉnh ủy, các lãnh đạo chủ chốt của tỉnh Kon Tum và con của lãnh đạo cấp giám đốc, phó giám đốc các sở, ban ngành tại tỉnh Kon Tum.
+Ngoài ra, học sinh thuộc diện đồng bào dân tộc thiểu số cũng được ưu tiên. Khó hiểu vì cách ưu tiên lạ lùng này, nhiều phụ huynh đã thắc mắc.
+“Để vào được mấy trường này cho con học, chúng tôi phải mất ăn mất ngủ. Phụ huynh đến nộp hồ sơ chen chúc nhau dữ dội, rồi năm nào cũng phải bốc thăm như dò vé số.
+Ai trúng được thì mừng lắm. Nhưng thấy cái nội dung ưu tiên con lãnh đạo trước thì chúng tôi cũng rầu lắm” - một phụ huynh than thở.
+Trao đổi với PV Tuổi Trẻ, ông Nguyễn Phúc Phận - giám đốc Sở GD-ĐT Kon Tum - cho biết sở dĩ sở đồng thuận nội dung “ưu tiên con lãnh đạo” khi xét tuyển vào hai trường điểm của tỉnh nhằm mục đích để cán bộ chủ chốt yên tâm công tác!
+“Hiện nay, hai trường này ở tỉnh nhìn chung là tốt nhất. Trước kỳ tuyển sinh, đại diện các trường này có đề xuất với sở là do lượng hồ sơ đổ về trường quá lớn, trong khi đó nhiều lãnh đạo cấp cao mong muốn gửi gắm con cái học ở nơi có điều kiện một chút, hai trường này lại cho học sinh bán trú nên bố mẹ có thể đi làm được cả ngày.
+Chúng tôi thấy cũng hợp lý nên đồng thuận cho thông báo rộng rãi”, ông Phận nói.
+Năm học 2016-2017, Trường mầm non Thực hành sư phạm Kon Tum tuyển 150 chỉ tiêu, Trường tiểu học Thực hành sư phạm Kon Tum tuyển khoảng 200 chỉ tiêu.
+Theo kế hoạch được sở chấp nhận, sau khi tiếp nhận hồ sơ, các trường sẽ phân ra diện hồ sơ “có lý lịch con cháu lãnh đạo” để gửi về Sở GD-ĐT Kon Tum để ưu tiên xét trước.
+Chiều 3-6, sau khi nghe PV Tuổi Trẻ trình bày băn khoăn của nhiều phụ huynh, ông Nguyễn Phúc Phận thừa nhận: “Xét như thế thì đúng là hơi khó coi. Nhưng mà chúng tôi cũng xuất phát từ cái tâm tốt, mong muốn con em lãnh đạo tỉnh có chỗ học hành tốt để các lãnh đạo yên tâm công tác”.
+Cuối ngày, ông Phận chủ động liên hệ với PV và cho biết hội đồng xét duyệt của sở đã quyết định hủy nội dung ưu tiên “con cháu lãnh đạo” nói trên, chỉ chọn bốn hồ sơ là con em của đồng bào dân tộc thiểu số tại TP Kon Tum.
+“Số hồ sơ có lý lịch con em lãnh đạo sẽ được trộn vào hồ sơ chung của người dân để bốc thăm, chọn hồ sơ ngẫu nhiên trong đợt xét tuyển sắp tới như từng làm ở các năm trước” - ông Phận nói.

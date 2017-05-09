@@ -1,0 +1,15 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465200378143").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/06\/cua-van-dong-thi-gio-vao-bang-cach-nao-1465200056.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Cách đây hơn 10 năm, khi chúng ta đang tiến hành đợt thay sách giáo khoa, cũng đã có những nhà giáo, nhà khoa học lên tiếng về việc cần có một bộ chương trình thống nhất nhưng nên có nhiều sách giáo khoa khác nhau để giáo viên và học sinh lựa chọn.
+Phản bác ý kiến này là những người chưa tin vào đội ngũ giáo viên và cả những người chỉ trông vào duy nhất sách giáo khoa khi dạy học.
+Sau khi có chủ trương, Bộ  GD-ĐT đã mở nhiều khóa học về xây dựng chương trình học và đào tạo chuyên gia xây dựng chương trình, bước đầu đưa ra các tiêu chí đánh giá sách giáo khoa, trong đó có quy định về hội đồng thẩm định quốc gia với những cuốn sách viết cho nhà trường phổ thông, cả sách dùng cho học sinh và sách giáo viên.
+Cứ tưởng mọi chuyện sẽ trở nên đơn giản và chúng ta sẽ thực hiện chương trình mới như dự định là từ năm học 2018-2019 nhưng cho tới thời điểm hiện tại, không biết dự định triển khai chương trình và sách giáo khoa mới có thể thực hiện đúng kế hoạch?
+Điều kỳ lạ là nhiều người trong chúng ta thấy rõ ích lợi từ việc nhiều sách sử dụng trong trường học phổ thông (mà ta quen gọi là sách giáo khoa) nhưng để thực hiện việc tưởng như đơn giản này lại không dễ. Một trong những cản trở xuất phát từ nhà quản lý giáo dục: ít (hay không) ai dám cho phép các loại sách vào trường học khi chưa có lệnh trên.
+Thế là dù có những nhà giáo dục, các tập đoàn giáo dục tâm huyết biên soạn sách nhưng đã không có cửa vào các trường học dù sách đã được cho thử nghiệm, được các chuyên gia có uy tín trong lĩnh vực chuyên môn và giáo dục đánh giá, vẫn phải đứng ngoài vì các quyết định của những người có thẩm quyền.
+Nếu vẫn chỉ chờ đợi, nếu vẫn chỉ kêu gọi, cửa vẫn đóng thì gió vào bằng cách nào? Chúng ta sẽ chết vì thiếu sự thông thoáng. Đối với giáo dục, một trong những sự thông thoáng đó chính là tự do học thuật - sách dùng trong trường học cũng là một trong những hình thức thể hiện tự do sáng tạo và tự do học thuật.
+Ở các nước có nền giáo dục phát triển, giáo viên là người lựa chọn sách dùng trong trường học. Không phải là cá nhân, mà là tập thể thầy cô giáo giảng dạy môn học đó, trên cơ sở nắm bắt việc dạy - học, việc sử dụng tài liệu học tập ở những năm trước, xu hướng mới trong giáo dục mà đề nghị hội đồng trường cho phép sử dụng những cuốn sách, những tài liệu nào dùng cho môn học trong nhà trường mà họ tham gia giảng dạy. Quyết định sử dụng sách của hiệu trưởng nhà trường chỉ là một quyết định hành chính đơn thuần.
+Hi vọng khi ra các quyết định về việc cho phép các trường phổ thông sử dụng sách giáo khoa, các nhà quản lý hãy nghĩ đến lợi ích của học trò - thế hệ làm nên tương lai dân tộc mà quyết định.

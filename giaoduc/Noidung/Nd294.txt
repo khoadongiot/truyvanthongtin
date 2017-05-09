@@ -1,0 +1,31 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1464939779528").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/03\/6-nhung-de-xuat-nang-chat-giao-duc-dai-hoc-1464939292.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Dưới đây là một số góp ý mà tôi cho rằng nó nằm trong quyền hạn của Bộ GD-ĐT, có thể thay đổi được, trong khả năng của tân bộ trưởng.
+Phải nâng điểm chuẩn đầu vào đại học, nhất là ở các ngành sư phạm
+Không khó để thấy rằng trình độ đầu vào của nhiều sinh viên ngày càng yếu kém. Tình trạng này xuất phát từ việc đánh giá “nhẹ tay” trong các kỳ thi ở phổ thông, nhất là thi tốt nghiệp THPT để đạt chỉ tiêu phấn đấu của địa phương, khiến kết quả học tập trở thành kết quả ảo.
+Thêm vào đó, các trường đại học được mở ào ạt nên điểm chuẩn đầu vào rất thấp ở nhiều ngành tuyển sinh, nhất là ngành sư phạm.
+Từ nhiều năm nay, báo chí thường nói đến hiện tượng “ngồi nhầm lớp” ở phổ thông, mà không đề cập đến hiện tượng này ở bậc đại học. Nhiều em không đủ kiến thức lẫn kỹ năng để học đại học, không có thói quen đọc sách báo để mở mang kiến thức, nên chỉ bám vào giáo trình.
+Theo một khảo sát mới đây của NCS Lữ Quốc Vinh (2016), nguyên nhân hàng đầu của việc sinh viên thiếu tích cực trong học tập là do “chưa quen với việc tự học”, chưa biết tự tìm kiếm tài liệu để tìm hiểu sâu về vấn đề được giảng viên giới thiệu trên lớp.
+Đó chính là hậu quả của việc tuyển sinh ồ ạt, khiến nhiều em thay vì đi học nghề sẽ thành công hơn thì lại cố bám vào đại học, để cuối cùng chất lượng ra trường rất kém.
+Phải tăng giờ để rèn luyện kỹ năng cho sinh viên
+Nhiều ý kiến đề nghị bỏ những môn học “vô bổ” trong chương trình đào tạo đại học, để tăng số giờ dành cho các môn chuyên ngành. Đề nghị này xuất phát từ tình trạng chất lượng sinh viên tốt nghiệp ngày càng thấp.
+Tuy nhiên nó khó khả thi, ít ra là trong thời gian trước mắt. Vì thế, tôi đề nghị phải tăng thời lượng đào tạo đại học, nhất là khi ngành giáo dục hướng đến việc rèn luyện kỹ năng.
+Hiện nay, để được cấp bằng cử nhân, sinh viên phải học khoảng 140 tín chỉ (mỗi tín chỉ gồm 15 giờ học ở lớp và 30 giờ tự học), trong khi ở các nước châu Âu, chương trình đào tạo cử nhân gồm 180 ECTS (mỗi ECTS gồm 25-30 giờ học ở lớp).
+Đó là một trong số nhiều nguyên nhân khiến chất lượng đào tạo của đại học Việt Nam còn khoảng cách khá xa đối với đại học nước ngoài. Vì thời lượng ít nên sinh viên không được rèn luyện những kỹ năng nghề nghiệp cần thiết, khiến chất lượng lao động kém.
+Về đào tạo sau đại học
+Hiện nay, chất lượng đào tạo thạc sĩ và tiến sĩ ở Việt Nam được đánh giá là thấp so với mặt bằng chung trong khu vực, đặc biệt là ở các ngành KHXH&amp;NV.
+Các giáo sư đầu đàn như GS Hoàng Tụy, GS Phạm Đức Chính, GS Trần Văn Thọ, GS P. Darriulat... đã có nhiều bài viết nói về sự yếu kém của đào tạo sau đại học nước ta.
+Tình trạng này xuất phát từ nhiều nguyên nhân, trong đó có việc chúng ta quan niệm sai về nghiên cứu khoa học (NCKH), dẫn đến tùy tiện trong việc đào tạo học viên sau đại học làm NCKH.
+Vì thế, trước mắt cần phải từng bước áp dụng chuẩn mực thế giới trong việc hướng dẫn khoa học (làm luận văn):
+- Đối với bậc thạc sĩ: phải do một PGS hướng dẫn chính, và người có bằng tiến sĩ chỉ được phép làm hướng dẫn phụ.
+- Đối với bậc tiến sĩ: phải do một GS hướng dẫn chính, PGS chỉ làm đồng hướng dẫn.
+Về hoạt động  khoa học
+Tình trạng phổ biến hiện nay là sau khi đã có bằng tiến sĩ, giảng viên tự xem như mình đã rành về NCKH, nên cứ theo cách nghiên cứu đã biết mà áp dụng, không còn học hỏi tự nâng cao năng lực nghiên cứu.
+Phương pháp NCKH là một ngành khoa học, nghĩa là cũng có nhiều trình độ khác nhau, và cũng được bổ sung thường xuyên nhiều kiến thức mới: giảng viên không tự học sẽ mau chóng lạc hậu với NCKH, và chất lượng nghiên cứu sẽ không thể tốt được.
+Mặt khác, kết quả NCKH cần phải được công bố càng rộng rãi càng tốt, trên các diễn đàn, tạp chí quốc tế - đích cuối cùng là công bố trên các tạp chí nằm trong danh mục ISI (Những tạp chí nằm trong danh sách thống kê của Viện Thông tin khoa học ISI).
+Vì thế, giảng viên cần cập nhật kiến thức về phương pháp NCKH, để ngày càng tiệm cận với trình độ của khu vực và thế giới.
+Để đạt được mục tiêu này, Bộ GD-ĐT cần có biện pháp cụ thể để giảng viên đại học phấn đấu. Chẳng hạn như quy định tương đương về giờ chuẩn đối với bài viết đăng các tạp chí trong danh mục ISI gấp 3 lần bài viết đăng trên tạp chí nước ngoài không có trong danh mục ISI, và gấp 6 lần bài viết đăng trên tạp chí chuyên ngành trong nước.

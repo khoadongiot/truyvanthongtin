@@ -1,0 +1,21 @@
+&gt;&gt; Nghe Audio
+
+                    
+                        Đang tải audio...
+                        
+                            jwplayer("audio_1465300031491").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/07\/tieu-diem-chieu-07-06-16-1465300027.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Trong nước
+Sáng 7-6, lãnh đạo TP.HCM và bộ trưởng Bộ GD-ĐT đã có cuộc họp bàn về phát triển giáo dục và đào tạo TP.HCM. Ông Thăng đề nghị đất nước đang hội nhập, phải chấp nhận nền kinh tế thị trường, giáo dục đào tạo cũng phải theo thị trường. 
+Chủ tịch UBND TP Đà Nẵng Huỳnh Đức Thơ vừa chỉ đạo yêu cầu ngừng hoạt động tất cả tàu du lịch trên sông Hàn để rà soát lại độ an toàn. 
+Sáng 7-6, gần 100 người đã tiếp cận hiện trường hang Kịt, cách TP Thanh Hóa 150km về phía tây bắc để tìm kiếm ba nạn nhân bị kẹt trong hang. Ba nạn nhân trên là những người khai thác vàng trái phép, trong đó không có người địa phương.
+Phản đối cưỡng chế, 8 người cố thủ đổ xăng dọa thiêu. Khi lực lượng cưỡng chế xông vào bên trong căn nhà thì mùi xăng xộc lên nồng nặc, cả gia đình khóc lóc van vỉ. Vụ việc xảy ra tại nhà số 209 Đống Đa, phường Thạch Thang (quận Hải Châu, TP Đà Nẵng) khoảng 8g sáng 7-6 gây xôn xao khu vực.
+Quốc tế
+Sáng 7-6, truyền thông quốc tế dẫn lại tính toán của Hãng tin AP cho biết bà Hillary Clinton đã đạt đủ số phiếu đại biểu cần thiết để trở thành đại diện Đảng Dân chủ ra tranh cử tổng thống Mỹ.
+Các nhà điều tra quốc tế vừa công bố hình ảnh một mảnh vỡ của tên lửa Buk từng bắn rơi máy bay MH17 được tìm thấy tại Ukraine.
+CHDCND Triều Tiên rất có thể đã đưa vào hoạt động trở lại nhà máy chuyên xử lý plutonium nhằm phục vụ việc chế tạo vũ khí hạt nhân.
+Công tố viên thành phố Cincinnati, bang Ohio (Mỹ) tuyên bố sẽ không buộc tội với người mẹ của cậu bé bị con Gorila tấn công tại vườn thú vừa qua.
+Thể thao
+Sáng 7-6 (giờ VN), ngôi sao Angel Di Maria tỏa sáng khi ghi một bàn thắng và có một đường kiến tạo giúp Argentina đá bại Chile 2-1 ở trận mở màn bảng D Copa America Centenario 2016 tại Mỹ.

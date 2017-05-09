@@ -1,0 +1,31 @@
+﻿dài bao nhiêu
+dài cỡ bao nhiêu
+dài khoảng bao nhiêu
+chiều dài bao nhiêu
+chiều dài khoảng bao nhiêu
+chiều cao bao nhiêu
+chiều cao khoảng bao nhiêu
+chiều dài là bao nhiêu
+chiều dài là nhiêu
+bao nhiêu km2
+bao nhiêu km đường bộ
+bao nhiêu km
+bao nhiêu ha
+bao nhiêu thước
+bao nhiêu mét
+bao nhiêu m2
+bao nhiêu mét
+bao nhiêu m
+bao nhiêu cm
+bao nhiêu mm
+cao bao nhiêu
+cao khoảng bao nhiêu
+rộng bao nhiêu
+rộng khoảng bao nhiêu
+đường kính bao nhiêu
+đường kính khoảng bao nhiêu
+có đường kính
+có chiều dài
+dài nhất là bao nhiêu
+dài nhất khoảng bao nhiêu
+kích thước bao nhiêu

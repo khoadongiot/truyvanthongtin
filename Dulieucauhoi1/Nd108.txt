@@ -1,0 +1,26 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465375281060").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/08\/9-nhung-gio-hoc-ngoai-truong-1465375291.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+Việc khó làm này lại được thầy cô tại chín trường THCS ở TP Cao Lãnh (tỉnh Đồng Tháp) thực hiện đều đặn trong năm học 2015-2016.
+Ra khỏi lớp học tù túng, học sinh được hòa mình với thiên nhiên, để các em hiểu biết thêm về quê hương mình. Qua việc sáng tạo những giờ học gắn liền với thực tiễn đời sống, nhà trường giúp các cô cậu học trò nhìn tận mắt, sờ tận tay, thực hành kỹ năng mà trước đây các em chỉ biết qua sách vở.
+Tiết học trong đình
+Trưa nắng chang chang, 29 học sinh lớp 8A3 Trường THCS Nguyễn Trãi (xã Tịnh Thới, TP Cao Lãnh) tay không cặp sách lần lượt quẹo vào đình Tịnh Thới. Tại đây, giáo viên chủ nhiệm, thầy tổng phụ trách Đội và cô hiệu trưởng đã tập trung bên chiếc bàn gỗ.
+Buổi học đặc biệt hôm nay thầy cô đóng vai trò người dự thính, còn giáo viên hôm nay chính là các ông, các chú trong ban tế tự đình.
+Sau khi khoanh tay thưa các thầy cô, học trò lớp 8A3 liền túm tụm thành từng nhóm nhỏ. Các em hết trầm trồ trước những thanh gươm, ngọn giáo trong chánh điện, rồi quay sang đọc những câu đối ở sân đình. Lúc ban tế tự đình Tịnh Thới có mặt, học sinh liền xúm lại, đặt câu hỏi liên tiếp với các đại diện ban tế tự.
+Nhoẻn nụ cười hiền lành, ông Nguyễn Văn Gọn, trưởng ban tế tự đình Tịnh Thới, bắt đầu vào “bài giảng” rất đỗi gần gũi: “Mỗi năm đình ta cúng hai lệ là thượng điền và hạ điền. Ngày mai cúng hạ điền là lệ cúng chính trong năm, để cầu thần nông ban mưa thuận gió hòa, mùa màng tươi tốt”.
+Một cánh tay khẽ giơ cao, gương mặt lộ vẻ háo hức, một cậu học trò đặt câu hỏi: “Thần nông là thần gì vậy ông Sáu?”. Cả lớp theo chân ông Sáu Gọn ra sân đình với hai miếu bên trái và bên phải. Chỉ tay về phía bức tường có chữ to ở giữa, ông Sáu từ từ giải thích: “Đây là bàn thờ thần nông nè các cháu”.
+Buổi học đặc biệt cứ thế đưa những cô cậu học trò trở về với thời khai hoang, mở cõi, khi những cư dân đầu tiên đặt chân đến mảnh đất này cày cuốc mưu sinh, xây nhà, lập đình. Ngôi đình cũng trải qua bao dông tố của chiến tranh, của thiên tai...
+Nhờ những thế hệ đi trước chung tay gìn giữ mà ngôi đình đã hiện hữu ngót nghét 200 năm, để mỗi dịp cúng đình người dân quanh vùng kẻ góp của, người góp công quây quần với nhau như ngày hội.
+Bài giảng kết thúc, không ai bảo ai, các học sinh liền chia nhau phụ các ông, các chú dọn dẹp đình, quét sân, quét đường, nhổ sạch đám cỏ hoang gần đình. Tuy người nhễ nhại mồ hôi nhưng gương mặt em nào cũng tươi tắn. Em Đỗ Hữu Hòa chia sẻ: “Em đi học qua lại đình rất nhiều lần, nhưng em không biết đình có nguồn gốc như thế nào, cúng đình nhằm mục đích gì. Giờ thì những thắc mắc của em đã được giải đáp hết. Em thấy đình gần gũi hơn với tụi em”.
+Cô Tăng Thị Kim Dung, hiệu trưởng Trường THCS Nguyễn Trãi, chia sẻ: “Thông qua những tiết học thực tế này, tôi tin rằng các em học sinh sẽ dần dần hình thành sự gắn bó với quê hương. Yêu quê hương không phải cái gì cao xa, mà từ những cái nhỏ như thế này”.
+Lồng ghép kiến thức thực tế vào đề thi
+Đây không phải lần đầu tiên học sinh Trường THCS Nguyễn Trãi được đi thực tế, để tìm hiểu những kiến thức đời thường.
+Trước đó, trường cũng tổ chức một buổi học cho học sinh ngay tại trụ sở UBND xã Tịnh Thới, để các em tìm hiểu bộ máy hành chính UBND xã. Lúc đó, học sinh được các anh chị, cô chú ở xã hướng dẫn những thủ tục hành chính đơn giản như làm giấy khai sinh, tạm vắng, tạm trú...
+Buổi học tuy ngắn ngủi nhưng đã giúp ích rất nhiều cho đời sống các em, vì hễ gia đình cần đi làm giấy tờ thì đều được các em hướng dẫn một cách bài bản.
+Thầy Nguyễn Văn Ngợi, trưởng Phòng GD-ĐT TP Cao Lãnh, cho biết từ đầu học kỳ 2 năm học này, phòng triển khai kế hoạch trải nghiệm thực tế và thí điểm tại sáu trường THCS. Các môn được ưu tiên trải nghiệm là giáo dục công dân, lịch sử, địa lý và ngoại ngữ.
+Theo đó, giáo viên bộ môn sẽ thiết kế ít nhất một tiết học/tháng để các em được đi thực tế, chủ yếu là các địa điểm ở địa phương. Thông qua chuyến đi trải nghiệm, thầy cô sẽ lồng ghép kiến thức của môn học vào đó, kể cả kỹ năng sống và giáo dục nhân cách.
+Qua thời gian triển khai thực hiện thí điểm trải nghiệm thực tế, nhiều trường có những cách làm hay như: giáo viên cho học sinh vào siêu thị để thực hành giao tiếp ngoại ngữ; hay tìm hiểu các vị anh hùng địa phương, sau đó cho học sinh đi thực tế tại Khu di tích Tiền hiền Nguyễn Tú; tìm hiểu cơ cấu kinh tế địa phương thông qua việc tham quan cơ sở bánh kẹo, cửa hàng gỗ, hội nông dân...
+Sau thời gian thực hiện thí điểm có thêm ba trường khác đăng ký mô hình, nâng số trường tham gia lên thành chín trường THCS trên địa bàn TP Cao Lãnh. “Trong những kỳ thi sắp tới, phòng sẽ lồng ghép trong đề thi các kiến thức thực tế đời thường, từ đó tạo động lực cho các em vừa học vừa thực hành. Kiến thức vì thế cũng ngấm và đi sâu vào lòng các em hơn” - thầy Ngợi chia sẻ.

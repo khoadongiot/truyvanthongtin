@@ -1,0 +1,1 @@
+Có 6 chữ số 1, 2, 3, 4, 5, 6. Mỗi chữ số được dùng 1 lần. Hãy lập ra 2 số có 3 chữ số sao cho hiệu giữa số lớn hơn và số nhỏ hơn là nhỏ nhất có thể.

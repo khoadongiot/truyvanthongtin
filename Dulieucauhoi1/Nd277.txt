@@ -1,0 +1,28 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465286690266").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/07\/uong-mong-thuc-su-duoc-chan-hung-1465286615.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                ""
+“Hiền dữ phải đâu là tính sẵn. Phần nhiều do giáo dục mà nên". ​Trong câu thơ trên, tôi hiểu “hiền dữ” là cách Bác Hồ nói bản chất tốt hay xấu, bản lĩnh yếu ớt hay vững vàng của một con người chủ yếu do giáo dục tạo nên. 
+Trong câu thơ trên, tôi hiểu “hiền dữ” là cách Bác Hồ nói bản chất tốt hay xấu, bản lĩnh yếu ớt hay vững vàng của một con người chủ yếu do giáo dục tạo nên. Với cách hiểu ấy, tôi tin rằng đất nước chúng ta ắt sẽ còn có nhiều thế hệ công dân tài đức, có tinh thần tích cực xã hội hơn nếu nền giáo dục nước nhà thay đổi hiệu quả một cách bứt phá trong vài thập niên tới.
+Chắc hẳn đó là mong ước chung và lớn nhất của mọi người dân Việt Nam, trong đó có tôi.
+Thực thi sự tự chủ chuyên môn
+Theo nghị quyết 29-NQ/TW, “đổi mới căn bản, toàn diện giáo dục và đào tạo là đổi mới những vấn đề lớn, cốt lõi, cấp thiết, từ quan điểm, tư tưởng chỉ đạo đến mục tiêu, nội dung, phương pháp, cơ chế, chính sách, điều kiện bảo đảm thực hiện...”.
+Trong những vấn đề cốt lõi ấy, tôi nghĩ vấn đề cấp thiết hơn cả là việc tạo nên một cơ chế toàn diện, năng động cho một hệ thống quản trị giáo dục thông bạch, giàu sức sống của trí tuệ và sâu nhân bản của con tim thực sự được vận hành.
+Cơ chế này thể hiện mạnh mẽ tinh thần “khoan sức dân”, khoan sức học giả, chuyên gia, và nhà giáo dục bằng những chính sách cụ thể liên quan đến xây dựng và phát triển chương trình, biên soạn, xuất bản và phát hành các tài liệu dạy học - giáo dục, chế độ lương thưởng, ưu đãi trong hoạt động chuyên môn và thu nhập của những người làm giáo dục...
+Đặc biệt, cơ chế này nhất thiết phải mang đến nhiều cơ hội nhất cho giáo viên và những nhà quản lý giáo dục thực thi sự tự chủ chuyên môn.
+Nghĩa là làm cho đội ngũ vốn có vai trò quyết định sự thành công của đổi mới giáo dục có khả năng tự lực, tự lập trong hoạt động nghiệp vụ của họ, có động cơ, lòng tự tin và năng lực chuyên môn bền vững để tự đưa ra những quyết định hiệu quả về nội dung và cách thức dạy học - giáo dục và đánh giá trên lớp học, trong một trường học, trong một địa phương.
+Hơn nữa, cơ chế này sẽ tạo điều kiện tốt nhất cho nhà trường phổ thông được vận hành không chỉ để thực hiện việc giảng dạy các môn học; không chỉ là nơi dạy học sinh học đọc viết, tính toán hay phát triển kiến thức, lĩnh hội kỹ năng mà quan trọng hơn là để phát triển thành một cơ chế lớn quan trọng cho quá trình tạo nên “nguồn vốn xã hội”, một nguồn vốn mà từ đó có thể sinh lãi vô tận cho đất nước.
+Và một hệ thống chuẩn mực thể hiện năng lực hoạt động (standards of performance) cần được xác lập và mô tả vừa có tính bắt buộc lại vừa khích lệ mỗi nhà trường thực hiện hiệu quả sự tự chủ, nghĩa vụ giải trình và chịu trách nhiệm đối với xã hội, tinh thần dân chủ và cởi mở đối với cộng đồng những người thụ hưởng giáo dục.
+Ba chia sẻ
+Liên quan đến quá trình xoay chuyển nền giáo dục phổ thông theo cách tiếp cận nội dung kiến thức sang một nền giáo dục chú trọng phát triển năng lực người học và dạy làm người, tôi có ba ước mong xin được chia sẻ.
+Một là quá trình đổi mới giáo dục ngôn ngữ được tập trung quyết liệt hơn và cụ thể hơn vào việc xây dựng các tiến trình và hệ thống phương tiện hỗ trợ làm cho mỗi học sinh trở thành những người đọc - người đọc độc lập - và làm cho văn hóa đọc thật sự được phát triển lan rộng và bám rễ sâu trong mỗi nhà trường, từ đó lan sang trong mỗi gia đình.
+Cụ thể, hãy tổ chức dạy học sao cho mỗi học sinh có thói quen đọc, sở thích đọc và kỹ năng đọc lành mạnh. Đó là nền tảng của một xã hội học tập, một nền dân trí cao giúp cho đất nước có khả năng đáp ứng những yêu cầu của thời đại giao tiếp - thông tin, của kinh tế tri thức và phát triển bền vững toàn cầu hiện nay.
+Hai là xin hãy nghĩ đến việc xây dựng một mô hình “dạy làm người” theo hướng lồng ghép việc phát triển hiểu biết cảm xúc (emotional literacy) cho học sinh vào trong quá trình giáo dục đạo đức - công dân.
+Cụ thể là thông qua học tập, hãy giúp học sinh hình thành và phát triển: khả năng hiểu cảm xúc của chính mình; khả năng lắng nghe, đồng cảm với người khác; ý thức đồng cảm và lòng trắc ẩn...
+Ba là học sinh phổ thông chắc chắn được học với những chương trình và tài liệu dạy học và trong một môi trường giáo dục nhất quán tập trung vào việc hỗ trợ các em phát triển khả năng đưa kiến thức và kỹ năng môn học vào những trường hợp sử dụng có mục đích, cũng như khả năng đặt và giải quyết vấn đề trong nhiều tình huống khác nhau với động cơ tích cực mạnh mẽ và lòng nhiệt thành vì cộng đồng xã hội.
+Ví dụ khi học khoa học, các em được nhấn mạnh phát triển năng lực “tư duy khoa học” trong lúc tìm hiểu và vận dụng kiến thức khoa học.
+Quá trình tập trung trau dồi tư duy khoa học này cốt không phải là để đào tạo nên đội ngũ nhà khoa học tương lai mà là để hình thành một nền tảng trong đó mọi công dân tham gia hoạt động chuyên môn và xã hội có kỹ năng và thói quen suy nghĩ một cách khoa học.
+Nghĩa là họ luôn buộc mình tìm kiếm lý lẽ và chứng cứ hay nhận diện sự vắng mặt của chứng cứ - lý lẽ khi thực hiện hoặc khi đưa ra hoặc khi tiếp nhận những yêu cầu, những nhận định, những tuyên bố nào đó trong các phương tiện thông tin.
+Kỹ năng tư duy khoa học như thế luôn có ý nghĩa thực tiễn và sống còn cho sự tồn tại và phát triển một xã hội giàu thông tin lành mạnh, nhờ vậy đời sống ngày càng công bằng và dân chủ hơn.

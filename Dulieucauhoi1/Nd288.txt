@@ -1,0 +1,29 @@
+Đang tải audio...
+                        
+                            jwplayer("audio_1465024478696").setup({"file":"http:\/\/static.new.tuoitre.vn\/tto\/r\/2016\/06\/04\/07-cau-cuu-cho-tro-1465024481.mp3","width":"100%","height":32,"skin":{"name":"glow","active":"#e32c24"}});
+                        
+                    
+                "Nghe đọc bài Cầu cứu cho trò"
+Cuối tháng 5, chúng tôi nhận được mail của thầy Kim Hai - giáo viên chủ nhiệm lớp 9/2 Trường THCS Đức Mỹ, huyện Càng Long, tỉnh Trà Vinh, cầu cứu cho một học sinh nghèo, có học lực khá giỏi ở lớp thầy chủ nhiệm là em Mai Thị Thanh Thảo.
+Thảo đang vướng phải căn bệnh khiến em thường lên cơn co giật, tay run, nên gặp nhiều khó khăn trong sinh hoạt và học tập. Bệnh của Thảo đang tiến triển, nguy cơ bỏ học của em rất cao...
+“Nhìn con lên cơn co giật mà đứt từng khúc ruột”
+Từ lời cầu cứu của thầy chủ nhiệm Kim Hai, chúng tôi tìm đến nhà Thảo. Đó là một ngôi nhà nằm sâu hút giữa đồng quê. Ông Mai Ngọc Dũng, 45 tuổi, cha Thảo, tiếp chúng tôi với ánh mắt đầy lo lắng.
+Ông Dũng kể Thảo là con duy nhất trong gia đình. Mẹ Thảo bị bệnh thoái hóa cột sống và viêm dạ dày nặng, ngày nào bà cũng phải uống thuốc, nên chỉ quẩn quanh ở nhà lo chuyện cơm nước. Phần ông làm thuê cho cơ sở sản xuất chỉ xơ dừa, bữa có bữa không, nên tiền kiếm được chỉ đủ để ba thành viên sống lay lắt qua ngày.
+Biết gia cảnh khó khăn nên Thảo luôn ý thức học hành với ước mơ có một nghề để lo cho cha mẹ và bản thân. Liên tục nhiều năm liền, Thảo đạt danh hiệu học sinh giỏi.
+Nhưng không ngờ vào gần cuối năm lớp 8, Thảo khởi phát bệnh: lúc đầu tay phải bị run, co giật, kế đó đến tay trái. Mỗi lần tay bị giật thì đầu cũng bị lắc qua lắc lại theo...
+Hoảng sợ trước bệnh tình của con, người cha chạy vạy vay mượn 7 triệu đồng để đưa con đi điều trị. Ông Dũng cho biết: “Các bác sĩ chẩn đoán cháu bị thần kinh yếu và điều trị mấy tháng ròng nhưng bệnh không hết mà lại nặng thêm...”.
+Thương tình cảnh bệnh tật của Thảo, thầy trò Trường THCS Đức Mỹ đã quyên góp được 3 triệu đồng rồi đưa Thảo đi Bệnh viện Quân y 120 Tiền Giang khám. Bệnh viện chẩn đoán Thảo bị “rối loạn vận động” và khuyên nên đi bệnh viện trên TP.HCM chữa trị.
+Ông Dũng thổ lộ: “Muốn lắm, nhưng tiền đâu mà đi, bởi tiền nợ của hàng xóm còn 7 triệu đồng chưa trả dứt...”.
+Không có khả năng lên TP.HCM nên ông đưa con đến Bệnh viện Trà Vinh, với hi vọng con được chữa dứt và cũng bởi gần nhà sẽ tiện chăm sóc con, cũng như lo chuyện mưu sinh. Nhưng suốt mấy tháng điều trị, đến nay bệnh của Thảo vẫn không thuyên giảm.
+“Những lúc nhìn con lên cơn co giật mà vợ chồng tôi đứt từng khúc ruột...” - nói đến đây giọng người cha nghẹn lại.
+Mong cộng đồng  chung tay giúp đỡ
+Ông Dũng tâm sự: “Tôi sợ con học nhiều sẽ ảnh hưởng đến thần kinh. Ngoài ra, con đi khám bệnh nên nghỉ học hoài. Sợ con kham không nổi, tôi có khuyên con nhắm không nổi thì nghỉ học, nhưng con khóc không chịu, bảo rằng: “Con thích học lắm cha ơi, học giúp mình biết được nhiều điều. Nhà mình nghèo, không đất đai, nếu không học làm sao sau này con nuôi cha mẹ được...”.
+Riêng Thảo mơ ước: “Giờ em cầu mong sao cho hết bệnh để có sức khỏe tiếp tục học hành như bao bạn khác...”.
+Chìa quyển tập toán, trong đó những hàng chữ xiêu vẹo như học sinh lớp 2, Thảo tâm sự căn bệnh khiến tay Thảo cầm bút không vững nên chữ mới xấu như gà bới, chứ trước đây Thảo thường đoạt giải “vở sạch chữ đẹp”. Do tay yếu khiến Thảo không thể ghi chép kịp bài giảng nên phải mượn tập của bạn photo đem về nhà học.
+Bệnh tật còn khiến Thảo không thể tập trung học được, học chỉ hai tiếng đồng hồ là đầu hơi căng, buộc Thảo phải ngưng. Vì vậy, mỗi ngày Thảo chỉ học được vài tiếng.
+Nhà cách trường khoảng 5km, nhưng vì bệnh, ngày nào Thảo đến lớp cũng trễ gần cả tiếng đồng hồ. Thảo cho biết: “Trường cũng đặc cách, ưu tiên cho em. Những buổi đi trễ, trường cũng châm chước...”.
+Tuy nhiên, cô học trò nhỏ cố gắng can trường đối phó với căn bệnh bằng cách chia nhỏ thời gian ra học và học đi học lại nhiều lần.
+Thầy Cao Văn Kiện thổ lộ: “Thấy em cố gắng mà mình cũng nể phục. Em dốc hết lực vào việc học. Ngồi trong lớp học rất chăm chú, bài vở đều học và làm đầy đủ...”.
+Mặc dù rất cố gắng nhưng ảnh hưởng của bệnh tật đã kéo học lực của Thảo tuột xuống, chỉ còn loại khá.
+Cô Tô Thị Hồng Thắm chia sẻ: “Dù em ấy rất cố gắng nhưng sợ học tiếp lên cao cô bé sẽ không theo kịp chương trình. Nhìn cô bé xinh xắn, thông minh, học giỏi, tương lai với nhiều hứa hẹn vậy mà giờ bị bệnh tật hành như vầy xót quá...”.
+Còn thầy Kim Hai lo lắng: “Bệnh của Thảo gần đây tiến triển nặng thêm. Em thường bị co giật ngay trong giờ học. Nhìn cảnh học trò như vầy, và nghĩ ước mơ, tương lai của em khiến cả trường ai cũng xót xa quá. Mong cộng đồng chung tay giúp đỡ hỗ trợ để em có thể lên bệnh viện TP.HCM chữa trị…”.

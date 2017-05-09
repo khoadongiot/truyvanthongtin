@@ -1,0 +1,33 @@
+Trong một bài viết đăng trên trang cá nhân của mình, nhà khoa học máy tính, cựu nhân viên NASA, Giám đốc nghiên cứu Google - Peter Norvig cho rằng, việc nóng lòng muốn trở thành nhà lập trình sau vài tháng là ý tưởng sai lầm. Bất kỳ công việc nào cũng cần sự rèn luyện, nỗ lực không ngừng nghỉ, từ đọc sách, đi học lấy chứng chỉ đến rút kinh nghiệm trong khi làm việc, cộng tác với đồng nghiệp.
+
+Tại sao mọi người lại học một cách vội vàng
+
+Rảo bước quanh các cửa hàng sách, bạn dễ dàng bắt gặp những tựa sách như Tự học lập trình Java trong 7 ngày bên cạnh một dãy dài vô tận những cuốn sách khác dạy các ngôn ngữ lập trình như C, SQL, Ruby… trong vài giờ. Ông đã thử công cụ tìm kiếm nâng cao những cuốn sách có tiêu đề chứa cụm "tự dạy" (teach yourself), "học" (learn), "giờ" (hours), "ngày" (days), "kể từ năm 2000" (since 2000). 9 trong 10 kết quả đầu tiên là sách lập trình.
+
+Điều ông rút ra là tại sao mọi người lại vội vàng đến thế khi học lập trình, hay vì lập trình là thứ dễ học hơn bất kỳ bộ môn nào trên đời. Nhà lập trình Felleisen và các cộng sự của ông cũng từng phát biểu trong cuốn How to Design Programs (Làm sao để viết các chương trình) rằng: "Viết một chương trình dở thì dễ thôi. Ngay cả những kẻ ngốc nghếch cũng có thể làm được điều đó trong 21 ngày, thậm chí với những người rất khờ khạo".
+
+Tự học lập trình trong 10 năm
+
+Các nhà nghiên cứu như Bloom, Bryan & Harter, Hayes cho biết, phải mất khoảng 10 năm để thông thạo bất kỳ lĩnh vực nào từ chơi cờ, sáng tác âm nhạc, bơi lội, tennis đến nghiên cứu tâm lý thần kinh… Điều quan trọng là việc luyện tập, thực hành. Đó không đơn thuần chỉ lặp đi lặp lại một công việc đó, mà còn thử thách bản thân với những nhiệm vụ vượt ngoài khả năng hiện tại, nỗ lực, phân tích những điều vừa làm được của bản thân trong và sau khi hoàn thành rồi khắc phục những khuyết điểm. Quá trình này phải được lặp đi lặp lại mà không có một lối đi tắt nào.
+
+Từ thực tế có thể nhận thấy, không có lối đi tắt nào để đi đến thành công. Ngay cả với Mozart, người được xem là thần đồng, đã bắt đầu học nhạc từ năm lên 4 tuổi và mất 13 năm để cho ra đời tác phẩm âm nhạc cổ điển đầu tiên. Một ví dụ ở lĩnh vực khác, the Beatles trước khi có bản hit số một vào 1964 ở chương trình Ed Sullivan, cũng đã chơi nhạc trong những câu lạc bộ nhỏ ở Liverpool hay Hamburg từ năm 1957. Dù họ sớm có được sức hút lớn với khán giả thì đến tận album Sgt. Pepper's phát hành năm 1967 mới có được thành công quan trọng đầu tiên trong sự nghiệp.
+
+Làm cách nào để trở thành một lập trình viên
+
+Hãy yêu thích lập trình và bạn làm vì cảm thấy hào hứng. Phải chắc chắn rằng, lập trình đủ thú vị để bạn còn theo đuổi công việc đó trong 10 năm hoặc 10.000 giờ nữa.
+
+Cách học lập trình tốt nhất chính là thực hành. Nói một cách khoa học hơn thì việc rèn luyện không khiến bạn tự động đạt đến đỉnh cao của tài năng nhưng ngay cả với những người nhiều kinh nghiệm, sự nỗ lực rèn luyện vẫn giúp cải thiện đáng kể năng lực của họ. Cách học tập hiệu quả nhất là xác định rõ khả năng hiện tại, những khó khăn của bản thân, nhận được đánh giá có ý nghĩa và tìm cơ hội làm lại, sửa sai. Những hướng dẫn trên được trích từ cuốn sách rất hữu ích - Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life (Nhận thức về thực hành: Trí tuệ, Toán học và Văn hóa đời sống).
+
+Hãy trao đổi với những lập trình viên khác, tìm hiểu thêm những chương trình khác. Điều này còn quan trọng hơn bất kỳ quyển sách hay khóa đào tạo nào.
+
+Nếu bạn muốn, hãy dành 4 năm ở đại học (hoặc dài hơn ở những trường bậc cao). Bạn sẽ có cơ hội làm những công việc yêu cầu bằng cấp và hiểu biết chuyên sâu hơn trong một vài lĩnh vực. Nhưng nếu không thích trường học, bạn cũng có thể có ngần ấy trải nghiệm khi tự học hoặc làm việc nhưng phải thực sự tập trung. Trong bất kỳ trường hợp nào, chỉ học qua sách vở cũng không bao giờ đủ. "Chương trình giảng dạy khoa học máy tính không thể giúp bạn trở thành chuyên gia lập trình cũng như học cách sử dụng bút lông và tô màu không làm nên một họa sĩ", Eric Raymond – tác giả The New Hacker's Dictionary cho biết.
+
+Tham gia vào các dự án với những lập trình viên khác. Bạn là người giỏi nhất trong một vài dự án nhưng cũng có thể là kém nhất trong một số khác. Nếu là người giỏi nhất, hãy thử thách khả năng làm lãnh đạo của mình. Còn ngược lại, hãy học hỏi xem người giỏi làm như thế nào và học xem họ không làm gì (vì họ muốn bạn làm những việc đó).
+
+Trong một dự án, hãy làm việc sau người lập trình khi bạn đã tìm hiểu chương trình của họ. Hãy tìm xem làm sao để hiểu được chương trình đó, chỉnh sửa thế nào để tốt hơn. Thử nghĩ xem làm thế nào để thiết kế những chương trình giúp cho những người sau này có thể duy trì dễ dàng hơn
+
+Học ít nhất khoảng nửa tá ngôn ngữ lập trình cơ bản thuộc nhiều nhóm chức năng khác nhau như Java, C++, Lisp,  ML, Prolog, Sisal, Clojure, Go.
+
+Nhớ rằng "máy tính" là một phần của "khoa học máy tính". Vì vậy, nên nắm rõ thời gian để máy tính thực hiện một lệnh, lấy một từ trong bộ nhớ (có hoặc không có cache), đọc những từ liên tiếp trong ổ đĩa…
+
+Tuân theo những quy định tiêu chuẩn của ngôn ngữ. Đó có thể đó là của ANSI C++ hoặc quy định gõ code ở nơi bạn sống, làm việc. Bạn cũng nên tìm hiểu xem người ta thích điều gì ở ngôn ngữ đó, họ cảm thấy thế nào hay vì sao họ thích nó.

@@ -1,0 +1,3 @@
+//<![CDATA[ 
+vtvWrite("http://24h-video.24hstatic.com/upload/2-2016/videoclip/2016-06-07/1465271832-nghihebaonhieuladu_01.mp4");
+ //]]>

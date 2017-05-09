@@ -1,0 +1,22 @@
+﻿bao lâu
+bao nhiêu phút
+bao nhiêu giờ
+bao nhiêu giây
+bao nhiêu ngày
+bao nhiêu năm
+bao nhiêu tháng
+bao nhiêu lâu
+bao nhiêu thời gian
+mấy ngày
+mấy phút
+mấy giây
+mấy năm
+mấy tháng
+khi nào
+Quãng thời gian nào
+quãng thời gian nào
+Khoảng thời gian nào
+khoảng thời gian nào
+mất bao lâu
+trong bao lâu
+khoảng bao lâu
